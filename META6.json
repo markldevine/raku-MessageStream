@@ -13,8 +13,8 @@
   "name": "MessageStream",
   "perl": "6.d",
   "provides": {
-    "MessageStream": "lib/MessageStream.pm6",
-    "MessageStream::Message": "lib/MessageStream/Message.pm6"
+    "MessageStream": "lib/MessageStream.rakumod",
+    "MessageStream::Message": "lib/MessageStream/Message.rakumod"
   },
   "resources": [
   ],
