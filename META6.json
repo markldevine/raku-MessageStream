@@ -1,4 +1,5 @@
 {
+  "api": "0.1.0",
   "auth": "github:markldevine",
   "authors": [
     "Mark Devine <mark@markdevine.com>"
@@ -20,6 +21,5 @@
   ],
   "source-url": "https://github.com/markldevine/raku-MessageStream.git",
   "tags": [
-  ],
-  "version": "0.1.0"
+  ]
 }
