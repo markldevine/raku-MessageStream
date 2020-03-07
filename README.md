@@ -27,7 +27,7 @@ intact and easy to unpack for all of your receivers.
 Your receiver method(s) can do whatever they want with the 
 MessageStream::Message object. They can simply say/put/print/note, maybe
 add some color -- AND append the posted message to a file with a prepended
-timestamp, AND send to SYSLOG, AND create a CSV, AND talk to a websocket,
+timestamp, AND send to SYSLOG, AND append to a CSV, AND talk to a websocket,
 AND perform a POST/PUT to a SharePoint Online list -- all from a single
 .post(). Each receiver is yours to craft and do whatever you choose with
 the arbitrary stuff that you pumped into the pipeline.
