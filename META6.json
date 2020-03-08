@@ -1,9 +1,6 @@
 {
-  "api": "0.1.0",
   "auth": "github:markldevine",
-  "authors": [
-    "Mark Devine <mark@markdevine.com>"
-  ],
+  "authors": [ "Mark Devine <mark@markdevine.com>" ],
   "depends": [
     "JSON::Marshal",
     "JSON::Unmarshal"
@@ -17,9 +14,8 @@
     "MessageStream": "lib/MessageStream.rakumod",
     "MessageStream::Message": "lib/MessageStream/Message.rakumod"
   },
-  "resources": [
-  ],
+  "resources": [],
   "source-url": "https://github.com/markldevine/raku-MessageStream.git",
-  "tags": [
-  ]
+  "tags": [],
+  "version": "0.1.1"
 }

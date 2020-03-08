@@ -1,7 +1,7 @@
 use     JSON::Marshal;
 use     JSON::Unmarshal;
 need    MessageStream::Message;
-unit    role MessageStream:api<0.1.0>:auth<Mark Devine (mark@markdevine.com)>;
+unit    role MessageStream:api<1>:auth<Mark Devine (mark@markdevine.com)>;
 
 has     Supplier    $.supplier  = Supplier.new;
 has     Supply      $.supply;
