@@ -1,5 +1,5 @@
 {
-  "auth": "github:markldevine",
+  "auth": "zef:markldevine",
   "authors": [ "Mark Devine <mark@markdevine.com>" ],
   "depends": [
     "JSON::Marshal",
@@ -17,5 +17,5 @@
   "resources": [],
   "source-url": "https://github.com/markldevine/raku-MessageStream.git",
   "tags": [],
-  "version": "0.1.1"
+  "version": "0.2.0"
 }
